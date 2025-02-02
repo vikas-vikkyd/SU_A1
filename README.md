@@ -13,4 +13,4 @@
 - Use `python train_cls.py` to train the model
 
 # References
-+ https://keras.io/examples/vision/pointnet/#build-a-model
++ For this assignment data was shared in classroom
