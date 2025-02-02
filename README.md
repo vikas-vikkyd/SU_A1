@@ -11,6 +11,8 @@
 - Use `pip install -r requirements.txt` to install the packages
 - Use `python get_spectogram.py` to generate spectrogram using different window and extract features from spectrogram which will be used to classify the sound
 - Use `python train_cls.py` to train the model
+- Use `python analyze_song.py` to generate Spectrogram for songs which will help to analyze the song
 
 # References
 + For this assignment data was shared in classroom
++ For this assignment few songs was downloaded from https://pixabay.com/music/search/wav/
